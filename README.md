@@ -32,7 +32,7 @@ pip install -r requirements.txt
 4. Run the server
 
 ```bash
-   python manage.py runserver
+python manage.py runserver
 ```
 
 
